@@ -1,0 +1,2 @@
+# AI-Enhanced-Intrusion-Detection-System
+**Summary:**  The AI-Enhanced Intrusion Detection System uses Machine Learning to detect cyber threats in network traffic. It applies the Random Forest algorithm to identify and classify suspicious activities. The system improves network security through accurate and real-time intrusion detection, helping protect sensitive data from cyber attacks.
